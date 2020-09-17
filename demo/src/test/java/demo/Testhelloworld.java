@@ -8,6 +8,7 @@ public class Testhelloworld {
 	public void teshelloworld() {
 
 		System.out.println("...Helloworld..");
+		System.out.println("sample Merge");
 	}
 
 }
